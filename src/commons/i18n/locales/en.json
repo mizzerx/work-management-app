@@ -1,0 +1,11 @@
+{
+  "commons": {
+    "welcomes": "Welcome to the App!"
+  },
+  "auth": {
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "username": "Username",
+    "password": "Password"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "commons": {
+    "welcomes": "Chào mừng bạn đến với App!"
+  },
+  "auth": {
+    "sign_in": "Đăng nhập",
+    "sign_up": "Đăng ký",
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu"
+  }
+}
